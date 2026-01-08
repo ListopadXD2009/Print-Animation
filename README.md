@@ -8,4 +8,4 @@ Print a Repeating Animation with Your own text
 Add a GUI
 
 # How to replace the text
-Replace "no se" with any word, Example is "Bush hid the Facts"<br>You can only change the text in the source sadly
+Replace "no se" with any word, Example is "Bush hid the Facts"<br>You can only change the text in the source sadly... :(((
